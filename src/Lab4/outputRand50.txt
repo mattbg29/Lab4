@@ -1,0 +1,89 @@
+Output for data containing 50 integers
+All times are in nanoseconds
+
+Summary of heap sort | times | swaps | compares:
+Sorting an unsorted array: | 118950.0 | 256 | 858
+Sorting a sorted array: | 78900.0 | 386 | 1068
+Sorting a reverse sorted array: | 126720.0 | 201 | 754
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+29524, 9841, 3280, 1093, 364, 121, 40, 13, 4, 1
+Sorting an unsorted array: | 238260.0 | 182 | 1319
+Sorting a sorted array: | 4620.0 | 0 | 409
+Sorting a reverse sorted array: | 7160.0 | 151 | 1164
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+30341, 10111, 3371, 1123, 373, 149, 53, 17, 5, 1
+Sorting an unsorted array: | 28400.0 | 222 | 1504
+Sorting a sorted array: | 4440.0 | 0 | 394
+Sorting a reverse sorted array: | 9040.0 | 157 | 1179
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+29160, 9720, 3240, 1080, 360, 120, 60, 30, 10, 1
+Sorting an unsorted array: | 16750.0 | 248 | 1519
+Sorting a sorted array: | 3970.0 | 0 | 279
+Sorting a reverse sorted array: | 14550.0 | 325 | 1904
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+30341, 13791, 6268, 2849, 1295, 588, 267, 121, 55, 25, 11, 5, 2, 1
+Sorting an unsorted array: | 16600.0 | 152 | 1321
+Sorting a sorted array: | 5580.0 | 0 | 561
+Sorting a reverse sorted array: | 8850.0 | 131 | 1216
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+1
+Sorting an unsorted array: | 49670.0 | 604 | 3169
+Sorting a sorted array: | 900.0 | 0 | 149
+Sorting a reverse sorted array: | 33100.0 | 1225 | 6274
+
+Input sorted:
+6
+13
+21
+91
+113
+157
+311
+316
+448
+631
+707
+730
+770
+772
+815
+858
+924
+926
+942
+979
+1010
+1018
+1146
+1157
+1293
+1298
+1361
+1390
+1391
+1412
+1468
+1488
+1510
+1512
+1624
+1659
+1671
+1742
+1795
+1843
+1848
+2135
+2139
+2146
+2185
+2226
+2331
+2369
+2392
+2405

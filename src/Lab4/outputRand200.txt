@@ -1,0 +1,239 @@
+Output for data containing 200 integers
+All times are in nanoseconds
+
+Summary of heap sort | times | swaps | compares:
+Sorting an unsorted array: | 178090.0 | 1448 | 5046
+Sorting a sorted array: | 221510.0 | 2305 | 6528
+Sorting a reverse sorted array: | 149230.0 | 1198 | 4538
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+29524, 9841, 3280, 1093, 364, 121, 40, 13, 4, 1
+Sorting an unsorted array: | 236170.0 | 1182 | 8150
+Sorting a sorted array: | 14750.0 | 0 | 2240
+Sorting a reverse sorted array: | 56950.0 | 1058 | 7530
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+30341, 10111, 3371, 1123, 373, 149, 53, 17, 5, 1
+Sorting an unsorted array: | 90130.0 | 1072 | 7546
+Sorting a sorted array: | 14490.0 | 0 | 2186
+Sorting a reverse sorted array: | 29470.0 | 744 | 5906
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+29160, 9720, 3240, 1080, 360, 120, 60, 30, 10, 1
+Sorting an unsorted array: | 75600.0 | 2011 | 12166
+Sorting a sorted array: | 16360.0 | 0 | 2111
+Sorting a reverse sorted array: | 39850.0 | 1238 | 8301
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+30341, 13791, 6268, 2849, 1295, 588, 267, 121, 55, 25, 11, 5, 2, 1
+Sorting an unsorted array: | 62700.0 | 875 | 7698
+Sorting a sorted array: | 19900.0 | 0 | 3323
+Sorting a reverse sorted array: | 62270.0 | 584 | 6243
+
+Summary of shell sort | times | swaps | compares | using the following increment sequence:
+1
+Sorting an unsorted array: | 282940.0 | 9354 | 47369
+Sorting a sorted array: | 2510.0 | 0 | 599
+Sorting a reverse sorted array: | 406000.0 | 19898 | 100089
+
+Input sorted:
+169
+266
+273
+508
+599
+621
+816
+909
+960
+1214
+1555
+1575
+1843
+1898
+1925
+2026
+2039
+2230
+2279
+2373
+2439
+2507
+2509
+2597
+2700
+2830
+2942
+3292
+3320
+3362
+3370
+3415
+3479
+3500
+3607
+3617
+3812
+3881
+3919
+3985
+4061
+4231
+4358
+4359
+4374
+4389
+4454
+4484
+4484
+4503
+4572
+4641
+4693
+4728
+4887
+4900
+4998
+5051
+5107
+5119
+5144
+5254
+5287
+5328
+5411
+5433
+5517
+5562
+5712
+5714
+5810
+5885
+5911
+6200
+6277
+6511
+6531
+6536
+6709
+6717
+6774
+6884
+7037
+7134
+7249
+7308
+7345
+7404
+7667
+7681
+7808
+7881
+7972
+8005
+8190
+8259
+8366
+8416
+8459
+8486
+8530
+8555
+8750
+8774
+8783
+8827
+8880
+8950
+8950
+8972
+8986
+9037
+9089
+9096
+9169
+9332
+9362
+9384
+9487
+9520
+9547
+9557
+9666
+9728
+9882
+9961
+10055
+10110
+10113
+10279
+10666
+10676
+10772
+10848
+10899
+10911
+11097
+11220
+11302
+11372
+11463
+11547
+11564
+11614
+11655
+11719
+11897
+12021
+12038
+12113
+12153
+12262
+12304
+12346
+12408
+12411
+12413
+12518
+12631
+12682
+12707
+12755
+12806
+12876
+12911
+12962
+12990
+13057
+13114
+13212
+13264
+13336
+13422
+13472
+13482
+13613
+13649
+13671
+13694
+13704
+13768
+13908
+14000
+14292
+14466
+14489
+14552
+14557
+14574
+14632
+14752
+15050
+15447
+15466
+15615
+15620
+15688
+15751
+15851
+15861
